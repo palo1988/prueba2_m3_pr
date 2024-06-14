@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "713678561456",
+    "firebase_url": "https://prueba-pr-7674c-default-rtdb.firebaseio.com",
+    "project_id": "prueba-pr-7674c",
+    "storage_bucket": "prueba-pr-7674c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713678561456:android:1c63464a82a13f00411b75",
+        "android_client_info": {
+          "package_name": "com.example.fire_aapr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJ4aH_kbV7EeG0J0n_6qiQHdtI3jam1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713678561456:android:2ffa67801f2bc21f411b75",
+        "android_client_info": {
+          "package_name": "com.example.prueba2_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJ4aH_kbV7EeG0J0n_6qiQHdtI3jam1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
